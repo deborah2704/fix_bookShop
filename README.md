@@ -1,1 +1,3 @@
-# fix_bookShop
+# fix_bookShop and pet
+add models and api
+testing with object
